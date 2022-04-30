@@ -1,0 +1,16 @@
+.tab-button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background: transparent;
+}
+.display-text {
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #ffffff;
+}
+.tab-text {
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #1fbbd6;
+}
